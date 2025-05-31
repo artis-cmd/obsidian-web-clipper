@@ -25,8 +25,8 @@ Obsidian Web Clipper에서 사용할 수 있는 다양한 템플릿 모음입니
 
 ## 🔧 사용 방법
 
-1. Obsidian에서 Web Clipper 플러그인을 설치 및 활성화
-2. Clipper 설정 → `템플릿` → `Import` 클릭
+1. Chrome에서 기능 확장 Obsidian Web Clipper 플러그인을 설치 및 활성화
+2. Obsidian Web Clipper 설정 → `템플릿` → `Import` 클릭
 3. 원하는 `.json` 템플릿 파일 선택하여 등록
 4. 해당 템플릿에 정의된 URL에서 페이지 열람 후 클리핑 실행
 
